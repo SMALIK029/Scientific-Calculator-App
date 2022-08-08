@@ -1,3 +1,7 @@
 
 This is another feature
+Enhancing some features
+added some more colors in the app
+made a sliding drawer in the app
+
 
